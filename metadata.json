@@ -1,0 +1,5 @@
+{
+  "name": "Skill Match",
+  "description": "An intelligent tool that analyzes job descriptions and resumes to provide an ATS match score, identify skill gaps, and recommend learning resources to help you land your next job.",
+  "requestFramePermissions": []
+}
