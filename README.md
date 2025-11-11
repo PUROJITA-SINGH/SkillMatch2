@@ -61,8 +61,8 @@
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/skillmatch.git
-cd skillmatch
+https://github.com/PUROJITA-SINGH/SkillMatch2.git
+cd SkillMatch2
 ```
 
 ### **2. Install Dependencies**
